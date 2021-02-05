@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireFlames2
+  m_Shader: {fileID: -6465566751694194690, guid: 76636aa14aced524ab9e1dd4f5839188, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_F615CB2:
+        m_Texture: {fileID: 2800000, guid: 88e29da0b55ece048a35c3a97099ceee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_37E79F15: 0.16
+    - Vector1_3DBD566F: 3.24
+    - Vector1_769BFC9E: 2.09
+    - Vector1_7C33A8A1: -0.93
+    - Vector1_A52ED080: -0.74
+    m_Colors:
+    - Color_E70460B3: {r: 5.091052, g: 1.7214321, b: 0.45147043, a: 0.9647059}
+    - Vector2_4AEC3BDF: {r: -0.1, g: -0.5, b: 0, a: 0}
+    - Vector2_F9ACC2FC: {r: 0, g: -0.3, b: 0, a: 0}
+  m_BuildTextureStacks: []
